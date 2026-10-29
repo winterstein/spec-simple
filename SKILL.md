@@ -1,11 +1,15 @@
 ---
 name: spec-simple
 description: >-
-  Simple spec-driven development for agentic coding. Collects requirements by talking to the user, then writes short human-friendly specs under
-  specs/{broad-feature}/{specific-feature}/spec.md. Use when drafting or
-  updating a feature spec, starting SDD, or when the user asks for a spec /
-  build plan / test plan before coding.
-version: 0.2.0
+  Simple spec-driven development for agentic coding. Collects requirements by 
+  talking to the user, then writes short human-friendly specs under 
+  specs/{broad-feature}/{specific-feature}/spec.md. 
+  Use when drafting or updating a feature spec, starting SDD, or when the user
+  asks for a spec / build plan / test plan before coding.
+license: MIT
+metadata:
+  author: Daniel Winterstein https://www.linkedin.com/in/winterstein/
+  version: 0.2.1
 ---
 
 # Spec-driven development (simple)
